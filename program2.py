@@ -1,0 +1,1 @@
+print("Easy Python file for new branch! Yes I am lazy!")
